@@ -1,3 +1,3 @@
-print Hola desde python
-""" hola
-"""
+print ("Hello from python")
+//Hola
+//Adiós
